@@ -44,10 +44,10 @@ This repository hosts a robust Java application integrated into a state-of-the-a
 ## 📸 Project Showcase
 
 ### Jenkins Job Configuration
-![Job Config](https://via.placeholder.com/800x400?text=Jenkins+Job+Configuration+Screenshot)
+![Job Config](job_config.png)
 
 ### Successful Build Output
-![Build Success](https://via.placeholder.com/800x400?text=Console+Output+Build+Success+Screenshot)
+![Build Success](build_success.png)
 
 ---
 
